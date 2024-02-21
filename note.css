@@ -279,5 +279,6 @@ display: flex;
     }
 .note-words{
   font-size: 10px;
+    max-width:250px;
 }
   }
