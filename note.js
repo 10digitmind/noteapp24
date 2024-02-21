@@ -9,7 +9,7 @@ window.addEventListener('load', function() {
         welcomeText.style.display = 'flex';
         textArea.style.display = 'flex';
         spin.style.display = 'none';
-    }, 2000);
+    }, 1000);
 });
 
 const textInput = document.querySelector('.text-input');
