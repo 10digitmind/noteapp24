@@ -273,4 +273,11 @@ display: flex;
         width: 90px;
         
     }
+
+       .notesaved-container {
+      grid-template-columns: 1fr 1fr;
+    }
+.note-words{
+  font-size: 10px;
+}
   }
