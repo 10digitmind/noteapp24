@@ -1,7 +1,7 @@
 
 Simple Note-Taking Web App
 
-Welcome to our Simple Note-Taking Web App! This application provides users with the ability to create, save, and manage notes locally within their browser using local storage. With this app, you can easily jot down your thoughts, to-do lists, or any important information without the need for an account or internet connection.
+Welcome to my Simple Note-Taking Web App! This application provides users with the ability to create, save, and manage notes locally within their browser using local storage. With this app, you can easily jot down your thoughts, to-do lists, or any important information without the need for an account.
 
 Features:
 Create Notes: Users can create new notes with a title and content.
